@@ -1,0 +1,6 @@
+{
+  "name": "AI Document Studio",
+  "description": "Mobile-first AI Document Generator with live document preview and instant local phone download capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
